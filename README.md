@@ -12,7 +12,7 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=SyedMehrab">
+<a href="https://komarev.com/?username=SyedMehrab">
   <img align="right" src=username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
+ <a href="https://github.com/syedmehrabzaidi" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="linkedin.com/in/syed-mehrab-18934220a" target="_blank">
