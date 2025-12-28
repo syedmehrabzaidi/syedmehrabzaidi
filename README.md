@@ -1,116 +1,79 @@
-<!--
-<h2 align="center">
-&nbsp;&nbsp;Welcome to Syed Mehrab World!
-&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-<!--
-<p align="center">
-&nbsp;&nbsp;<a href="https://github.com/Syedmehrabzaidi"><img src="https://readme-typing.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-&nbsp;-->
-<a href="https://komarev.com/?username=SyedMehrab">
-&nbsp;&nbsp;<img align="right" src=username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-<!-- Intro -->
-<h3 align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<samp>&gt; Hey There!, I am
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><a target="_blank" href="https://SyedMehrab.com">Syed Mehrab</a></b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp>
-</h3>
-<p align="center">
-&nbsp;&nbsp;<samp>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.google.com/search?q=Syed+Mehrab">「 Google Me 」</a>
-&nbsp;&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;「 I am a full stack web appplication developer from <b>Pakistan</b> 」
-&nbsp;&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;</samp>
-</p>
-<p align="center">
-&nbsp;<a href="https://github.com/syedmehrabzaidi" target="blank">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
-&nbsp;</a>
-&nbsp;<a href="linkedin.com/in/syed-mehrab-18934220a" target="_blank">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
-&nbsp;</a>
-&nbsp;<a href="https://dev.to/syedmehrab" target="_blank">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
-&nbsp;</a>
-&nbsp;<a href="https://twitter.com/" target="_blank">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-&nbsp;</a>
-&nbsp;<a href="https://instagram.com/" target="_blank">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
-&nbsp;</a>
-&nbsp;<a href="https://facebook.com/" target="_blank">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam" />
-&nbsp;&nbsp;</a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Syed+Mehrab;AI+%26+LLM+Software+Engineer;3%2B+Years+of+Production+AI+Development;RAG+%7C+Agentic+Workflows+%7C+MLOps" alt="Typing SVG" />
+</div>
+
 <br />
-<!-- About Section -->
-&nbsp;# About me
-<p>
-&nbsp;<img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
-&nbsp;
-&nbsp;✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
-&nbsp;❤️ &emsp; Love to writing code and learning new features<br/><br/>
-&nbsp;📧 &emsp; Reach me anytime: Syedmehrab2288@gmail.com<br/><br/>
-&nbsp;💬 &emsp; Ask me about anything [here](https://github.com/syedmehrabzaidi/issues)
-</p>
-<br/>
-<br/>
-<br/>
-## Use To Code
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-[comment]: <> (![Express.js]&#40;https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&#41;)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/-python-orange)
-![Git](https://img.shields.io/badge/Django-framework-brightgreen)
-![Git](https://img.shields.io/badge/Celery-Redis-blue)
-<br/>
-## Top Open Source -
-[![ Air-Pollution-Prediction-System-Using-ML](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/syedmehrabzaidi/Air-Pollution-Prediction-System-Using-ML)
-[![Covid-19](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]( Air-Pollution-Prediction-System-Using-ML)
-[comment]: <> ([![Syed Mehrab Readme]&#40;https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&#41;]&#40;https://github.com/alsiam/alsiam&#41;)
-[comment]: <> ([![Syed Mehrab]&#40;https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&#41;]&#40;https://github.com/alsiam/alsiam.github.io&#41;)
-<p align="left">
-&nbsp;&nbsp;<a href="https://github.com/syedmehrab?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-<br/>
-<hr/>
-<br/>
-<p align="center">
-&nbsp;&nbsp;<a href="https://github.com/syedmehrabzaidi">
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Syed Mehrab's GitHub streak"/>
-&nbsp;&nbsp;</a>
-</p>
-<p align="center">
-&nbsp;&nbsp;<a href="https://github.com/syedmehrabzaidi">
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syed&theme=radical" alt="Al Syed Mehrab's GitHub Contribution"/>
-&nbsp;&nbsp;</a>
-</p>
-<a>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/syedmehrab"><img alt="syedmehrab's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=syed&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-&nbsp;&nbsp;<a href="https://github.com/syedmehrab"><img alt="syedmehrab's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=syed&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-&nbsp;&nbsp;<br/>
-</a>
-![Syed Mehrab's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Syed&custom_title=Mehrab's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Pakistan-🇵🇰-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjRkZGIiBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMHMxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnpNMjEgMTJjMCA1LjAyLTQuMDggOS0xMCA5cy0xMC00Ljk4LTEwLTl2LTJjMC01LjAyIDQuMDgtOSAxMC05czEwIDQuOTggMTAgOVYxMnoiLz48L3N2Zz4=" alt="Pakistan" />
+  <img src="https://img.shields.io/badge/LLM%20Engineer-DeepSeek%20%7C%20Mistral%20%7C%20TinyLlama-green?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-BentoML%20%7C%20vLLM%20%7C%20GPU-blue?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Django%20%7C%20gRPC-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+<br />
+
+### 👨‍💻 About Me
+
+- 🔭 Currently working as **AI Python Developer** at Next Generation Innovations — architecting & deploying **production-ready LLM-powered chatbots**, **RAG pipelines**, and **agentic AI systems**
+- 🌱 Deep expertise in **model quantization & optimization** (BentoML/vLLM), **multilingual TTS fine-tuning** (NVIDIA NeMo & Riva), **Docker + GPU acceleration**, and **gRPC microservices**
+- 💡 Passionate about **autonomous decision-making agents**, scalable inference, enterprise AI deployment, and solving real-world problems with intelligent systems
+- 📫 Reach out: **syedmehrab2288@gmail.com** | Open to **remote opportunities** worldwide (USA, Australia, Europe, etc.)
+- ⚡ Fun fact: I turn complex enterprise challenges into **efficient, autonomous AI magic** 🚀
+
+<br />
+
+### 🛠️ Tech Stack & Expertise
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-Advanced-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-Mistral%207B%20%7C%20DeepSeek%20%7C%20TinyLlama-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00BCD4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/BentoML%20%7C%20vLLM-Inference%20Optimization-FF4081?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-GPU%20Acceleration-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-Microservices-EA4335?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA%20NeMo%20%7C%20Riva-Multilingual%20TTS-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL%20%7C%20Redis-Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-Agentic%20Workflows%20%26%20Automation-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white" />
+</div>
+
+<br />
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+  <!-- More reliable alternative fork to avoid Camo errors -->
+  <img src="https://github-readme-stats-pietro-lay.vercel.app/api?username=SyedMehrab&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C4B4&icon_color=00C4B4&text_color=C9D1D9&border_radius=10" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-pietro-lay.vercel.app/api/top-langs/?username=SyedMehrab&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C4B4&text_color=C9D1D9&border_radius=10&langs_count=8" width="38%" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <!-- Streak stats - alternative reliable endpoint -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SyedMehrab&theme=radical&border_radius=10&background=0D1117&stroke=00C4B4&ring=00C4B4&fire=00C4B4&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00C4B4&sideLabels=00C4B4&dates=C9D1D9" width="60%" alt="GitHub Streak" />
+</div>
+
+<br />
+
+### 🌐 Let's Connect
+
+<div align="center">
+  <a href="mailto:syedmehrab2288@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/syed-mehrab-18934220a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SyedMehrab">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SyedMehrab.SyedMehrab" alt="Profile Visitors" />
+  <br/>
+  <samp>Thanks for stopping by! Feel free to connect or explore my repositories ⭐</samp>
+</div>
