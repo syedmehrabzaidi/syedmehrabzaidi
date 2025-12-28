@@ -18,7 +18,7 @@
 - 🔭 Currently working as **AI Python Developer** at Next Generation Innovations — architecting & deploying **production-ready LLM-powered chatbots**, **RAG pipelines**, and **agentic AI systems**
 - 🌱 Deep expertise in **model quantization & optimization** (BentoML/vLLM), **multilingual TTS fine-tuning** (NVIDIA NeMo & Riva), **Docker + GPU acceleration**, and **gRPC microservices**
 - 💡 Passionate about **autonomous decision-making agents**, scalable inference, enterprise AI deployment, and solving real-world problems with intelligent systems
-- 📫 Reach out: **syedmehrab2288@gmail.com** | Open to **remote opportunities** worldwide (USA, Australia, Europe, etc.)
+- 📫 Reach out: **syedmehrab2288@gmail.com** | Open to **remote opportunities** worldwide
 - ⚡ Fun fact: I turn complex enterprise challenges into **efficient, autonomous AI magic** 🚀
 
 <br />
@@ -44,13 +44,13 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- Reliable alternative to avoid Camo / original Vercel issues -->
-  <img src="https://github-readme-stats-pietro-lay.vercel.app/api?username=SyedMehrab&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C4B4&icon_color=00C4B4&text_color=C9D1D9&border_radius=10" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-pietro-lay.vercel.app/api/top-langs/?username=SyedMehrab&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C4B4&text_color=C9D1D9&border_radius=10&langs_count=8" width="38%" alt="Top Languages" />
+  <!-- Using a more stable Cloudflare Workers-based alternative (fast & reliable in late 2025) -->
+  <img src="https://gh-stats-gen.vercel.app/api?username=SyedMehrab&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C4B4&icon_color=00C4B4&text_color=C9D1D9&border_radius=10&v=1" width="48%" alt="GitHub Stats" />
+  <img src="https://gh-stats-gen.vercel.app/api/top-langs/?username=SyedMehrab&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C4B4&text_color=C9D1D9&border_radius=10&langs_count=8&v=1" width="38%" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <!-- Reliable streak stats alternative -->
+  <!-- Streak stats - keeping the working alternative -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SyedMehrab&theme=radical&border_radius=10&background=0D1117&stroke=00C4B4&ring=00C4B4&fire=00C4B4&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00C4B4&sideLabels=00C4B4&dates=C9D1D9" width="60%" alt="GitHub Streak" />
 </div>
 
@@ -65,7 +65,7 @@
   <a href="https://www.linkedin.com/in/syed-mehrab-18934220a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/SyedMehrab">
+  <a href="https://github.com/SyedMehrabzaidi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
