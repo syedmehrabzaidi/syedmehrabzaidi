@@ -1,38 +1,42 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Syed+Mehrab;AI+%26+LLM+Software+Engineer;Building+Production-Ready+AI+Systems;RAG+%7C+Agentic+Workflows+%7C+MLOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Syed+Mehrab;AI+%26+LLM+Software+Engineer;3%2B+Years+Building+Production+AI;RAG+%7C+Agentic+AI+%7C+MLOps+%7C+Backend" alt="Typing SVG" />
 </div>
 
 <br />
 
 <div align="center">
   <img src="https://img.shields.io/badge/Pakistan-🇵🇰-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjRkZGIiBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMHMxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnpNMjEgMTJjMCA1LjAyLTQuMDggOS0xMCA5cy0xMC00Ljk4LTEwLTl2LTJjMC01LjAyIDQuMDgtOSAxMC05czEwIDQuOTggMTAgOVYxMnoiLz48L3N2Zz4=" alt="Pakistan" />
-  <img src="https://img.shields.io/badge/LLM%20Engineer-DeepSeek%20%7C%20Mistral%20%7C%20vLLM-green?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech%20Stack-FastAPI%20%7C%20Django%20%7C%20Docker-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Engineer-DeepSeek%20%7C%20Mistral%20%7C%20TinyLlama-green?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-BentoML%20%7C%20vLLM%20%7C%20GPU-blue?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Django%20%7C%20gRPC-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <br />
 
 ### 👨‍💻 About Me
-- 🔭 Currently building **production-grade AI systems** — LLMs, **RAG pipelines**, agentic workflows & optimized inference
-- 🌱 Deepening expertise in **MLOps**, model quantization (BentoML/vLLM), multilingual TTS fine-tuning (NeMo/Riva)
-- 💡 Passionate about **autonomous AI agents**, scalable backend services, and turning complex data into intelligent solutions
-- 📫 Reach out → **syedmehrab2288@gmail.com** | Always open for **remote collaboration** & exciting AI projects!
-- ⚡ Fun fact: I love turning real-world problems into **agentic AI magic** 🚀
+
+- 🔭 Currently working as **AI Python Developer** at Next Generation Innovations — building production-ready **LLM-powered chatbots**, **RAG pipelines**, and **agentic AI systems**
+- 🌱 Deep expertise in **model quantization**, **multilingual TTS fine-tuning** (NVIDIA NeMo & Riva), **Docker + GPU acceleration**, and **gRPC microservices**
+- 💡 Passionate about **autonomous AI**, scalable inference, enterprise AI deployment, and turning complex problems into intelligent solutions
+- 📫 Reach out: **syedmehrab2288@gmail.com** | Open to **remote opportunities** worldwide
+- ⚡ Fun fact: I enjoy optimizing LLMs to run efficiently while keeping them highly capable 🚀
 
 <br />
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Expertise
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-Advanced-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-Mistral%20%7C%20DeepSeek%20%7C%20TinyLlama-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-Mistral%207B%20%7C%20DeepSeek%20%7C%20TinyLlama-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00BCD4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/BentoML%20%7C%20vLLM-Optimized%20Inference-FF4081?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/BentoML%20%7C%20vLLM-Inference%20Optimization-FF4081?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-GPU%20Acceleration-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/gRPC-Microservices-EA4335?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA%20NeMo%20%7C%20Riva-TTS%20Fine-tuning-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA%20NeMo%20%7C%20Riva-Multilingual%20TTS-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL%20%7C%20Redis-Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-Agentic%20Workflows-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white" />
 </div>
 
 <br />
@@ -50,7 +54,7 @@
 
 <br />
 
-### 🌐 Connect with Me
+### 🌐 Let's Connect
 
 <div align="center">
   <a href="mailto:syedmehrab2288@gmail.com">
@@ -69,5 +73,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SyedMehrab.SyedMehrab" alt="Profile Visitors" />
   <br/>
-  <samp>Thanks for stopping by! ⭐ If you like my work, feel free to star/follow ✨</samp>
+  <samp>Thanks for visiting! Feel free to connect or explore my repositories ⭐</samp>
 </div>
